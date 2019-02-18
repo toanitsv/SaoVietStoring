@@ -1,0 +1,86 @@
+﻿<Window x:Class="SaoVietStoring.Views.CheckIssuesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Storing System - Report Issues" SizeToContent="WidthAndHeight" MinHeight="400" MinWidth="500" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" Loaded="Window_Loaded">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="LinearBackground" StartPoint="0,0" EndPoint="0,1">
+            <LinearGradientBrush.GradientStops>
+                <GradientStop Offset="0.3" Color="Silver"/>
+                <GradientStop Offset="1" Color="Transparent"/>
+            </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+    </Window.Resources>
+    <Grid Background="{StaticResource LinearBackground}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="100"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Security Code :" Grid.Column="0" FontSize="18" VerticalAlignment="Center"/>
+            <PasswordBox x:Name="txtSecurityCode" Grid.Column="1" FontSize="20" BorderBrush="Black" MinWidth="300" Margin="5,0,5,0" />
+            <Button x:Name="btnAccecpt" Grid.Column="2" Content="Accept" FontSize="16" FontWeight="Bold" Click="btnAccecpt_Click" IsDefault="True"  />
+        </Grid>
+        <Grid Grid.Row="1" Margin="0,10,0,0">
+            <TextBlock x:Name="tblStatus" FontSize="18" Foreground="Blue"/>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <GroupBox Grid.Column="0" Header="Choose a Reason" x:Name="groupChooseReason" FontSize="15" Visibility="Collapsed" BorderBrush="Black">
+                <Grid x:Name="gridIssues" Margin="10,0,0,0" Visibility="Collapsed" MinHeight="200" >
+                </Grid>
+            </GroupBox>
+            <GroupBox Grid.Column="1" Header="Update Weight" FontSize="15" x:Name="groupUpdateCarton" Visibility="Collapsed" Padding="10,5,0,0" BorderBrush="Black">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="0" Orientation="Horizontal">
+                        <TextBlock Text="PO:"  Width="100" VerticalAlignment="Bottom"/>
+                        <TextBlock x:Name="txtPO" VerticalAlignment="Bottom" Foreground="Red"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="0,5,0,0">
+                        <TextBlock Text="Barcode:" Width="100"/>
+                        <TextBlock x:Name="txtBarcode" Foreground="Red"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="3" Orientation="Horizontal" Margin="0,5,0,0">
+                        <TextBlock Text="CartonNo:" Width="100" VerticalAlignment="Bottom"/>
+                        <TextBox x:Name="txtCartonNo" Width="100" BorderBrush="Black" Foreground="Red"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="4" Orientation="Horizontal" Margin="0,5,0,0">
+                        <TextBlock Text="SizeNo:"  Width="100" VerticalAlignment="Bottom"/>
+                        <TextBox x:Name="txtSizeNo" Width="100" BorderBrush="Black" Foreground="Red"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="6" Orientation="Horizontal" Margin="0,5,0,0">
+                        <TextBlock Text="Actual Weight:" Width="100" VerticalAlignment="Bottom"/>
+                        <TextBox x:Name="txtActualWeight" Width="100" BorderBrush="Black" Foreground="Red"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="7" Orientation="Horizontal" Margin="0,10,0,0">
+                        <Button x:Name="btnSave" IsEnabled="False" Content="Save" Width="80" Click="btnSave_Click"/>
+                    </StackPanel>
+                </Grid>
+            </GroupBox>
+        </Grid>
+        <Grid Grid.Row="3" Margin="0,5,0,0">
+            <StackPanel Grid.Column="0" Orientation="Horizontal">
+                <Button x:Name="btnUpdateWeight" Content="Update Weight" FontSize="18" Background="Green" IsEnabled="False" Click="btnUpdateWeight_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

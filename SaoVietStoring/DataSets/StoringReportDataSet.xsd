@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="StoringReportDataSet" targetNamespace="http://tempuri.org/StoringReportDataSet.xsd" xmlns:mstns="http://tempuri.org/StoringReportDataSet.xsd" xmlns="http://tempuri.org/StoringReportDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="StoringReportDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="StoringReportDataSet" msprop:Generator_UserDSName="StoringReportDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="StoringTable" msprop:Generator_TableClassName="StoringTableDataTable" msprop:Generator_TableVarName="tableStoringTable" msprop:Generator_TablePropName="StoringTable" msprop:Generator_RowDeletingName="StoringTableRowDeleting" msprop:Generator_RowChangingName="StoringTableRowChanging" msprop:Generator_RowEvHandlerName="StoringTableRowChangeEventHandler" msprop:Generator_RowDeletedName="StoringTableRowDeleted" msprop:Generator_UserTableName="StoringTable" msprop:Generator_RowChangedName="StoringTableRowChanged" msprop:Generator_RowEvArgName="StoringTableRowChangeEvent" msprop:Generator_RowClassName="StoringTableRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NumberOf" msprop:Generator_ColumnVarNameInTable="columnNumberOf" msprop:Generator_ColumnPropNameInRow="NumberOf" msprop:Generator_ColumnPropNameInTable="NumberOfColumn" msprop:Generator_UserColumnName="NumberOf" type="xs:int" minOccurs="0" />
+              <xs:element name="ProductNo" msprop:Generator_ColumnVarNameInTable="columnProductNo" msprop:Generator_ColumnPropNameInRow="ProductNo" msprop:Generator_ColumnPropNameInTable="ProductNoColumn" msprop:Generator_UserColumnName="ProductNo" type="xs:string" minOccurs="0" />
+              <xs:element name="SizeNo" msprop:Generator_ColumnVarNameInTable="columnSizeNo" msprop:Generator_ColumnPropNameInRow="SizeNo" msprop:Generator_ColumnPropNameInTable="SizeNoColumn" msprop:Generator_UserColumnName="SizeNo" type="xs:string" minOccurs="0" />
+              <xs:element name="StoringValue" msprop:Generator_ColumnVarNameInTable="columnStoringValue" msprop:Generator_ColumnPropNameInRow="StoringValue" msprop:Generator_ColumnPropNameInTable="StoringValueColumn" msprop:Generator_UserColumnName="StoringValue" type="xs:string" minOccurs="0" />
+              <xs:element name="IsPass" msprop:Generator_ColumnVarNameInTable="columnIsPass" msprop:Generator_ColumnPropNameInRow="IsPass" msprop:Generator_ColumnPropNameInTable="IsPassColumn" msprop:Generator_UserColumnName="IsPass" type="xs:boolean" minOccurs="0" />
+              <xs:element name="CartonNo" msprop:Generator_ColumnVarNameInTable="columnCartonNo" msprop:Generator_ColumnPropNameInRow="CartonNo" msprop:Generator_ColumnPropNameInTable="CartonNoColumn" msprop:Generator_UserColumnName="CartonNo" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

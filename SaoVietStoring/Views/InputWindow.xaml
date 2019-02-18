@@ -1,0 +1,189 @@
+﻿<Window x:Class="SaoVietStoring.Views.InputWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Storing System - INPUT CARTON" FontSize="20" MinHeight="700" MinWidth="1024" WindowState="Maximized" KeyUp="Window_KeyUp" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" Closing="Window_Closing">
+    <Window.Resources>
+        <Style x:Key="RoundCorner" TargetType="{x:Type Button}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid x:Name="grid">
+                            <Border x:Name="border" CornerRadius="0,0,0,0" BorderBrush="Black" BorderThickness="1">
+                                <Border.Background>
+                                    <RadialGradientBrush>
+                                        <GradientStop Offset="0.3" Color="Bisque"/>
+                                    </RadialGradientBrush>
+                                </Border.Background>
+                                <ContentPresenter HorizontalAlignment="Center"
+                                          VerticalAlignment="Center">
+                                </ContentPresenter>
+                            </Border>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" TargetName="border">
+                                    <Setter.Value>
+                                        <RadialGradientBrush>
+                                            <GradientStop Color="LightBlue" Offset="0.3"/>
+                                        </RadialGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="BorderBrush" TargetName="border" Value="#F00F"/>
+                                <Setter Property="BorderThickness" TargetName="border" Value="2"/>
+                                <Setter Property="Background" TargetName="border">
+                                    <Setter.Value>
+                                        <RadialGradientBrush>
+                                            <GradientStop Color="LightSeaGreen" Offset="0.3"/>
+                                        </RadialGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <LinearGradientBrush x:Key="CompleteBackground" StartPoint="0,0" EndPoint="0,1">
+            <LinearGradientBrush.GradientStops>
+                <GradientStop Offset="0.5" Color="LightGreen"/>
+                <GradientStop Offset="0.8" Color="LightGreen"/>
+            </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="IncompleteBackground" StartPoint="0,0" EndPoint="0,1">
+            <LinearGradientBrush.GradientStops>
+                <GradientStop Offset="0.3" Color="Tomato"/>
+                <GradientStop Offset="0.7" Color="Tomato"/>
+            </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+    </Window.Resources>
+    <Grid Margin="5" x:Name="gridInput">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1" Height="50">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Button x:Name="btnComplete" Style="{DynamicResource RoundCorner}" Content="Complete Carton" FontSize="20" FontFamily="Caribi" Click="btnComplete_Click" />
+            </Grid>
+            <Grid Grid.Column="2">
+                <Button x:Name="btnIncomplete"  Style="{DynamicResource RoundCorner}" Content="Incomplete Carton" FontSize="20" FontFamily="Caribi" Click="btnIncomplete_Click" />
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2" Margin="0,0,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,0,0,5">
+                <TextBox x:Name="txtMinActualWeight" MinWidth="60" TextAlignment="Center" FontSize="30" Text="1" VerticalAlignment="Bottom" BorderBrush="Black"/>
+                <TextBlock Foreground="Blue" Text=" ≤ Actual Weight(kg) ≤ "  VerticalAlignment="Bottom"/>
+                <TextBox x:Name="txtMaxActualWeight" MinWidth="60" TextAlignment="Center" FontSize="30" Text="20" VerticalAlignment="Bottom" BorderBrush="Black"/>
+            </StackPanel>
+            <Border x:Name="brTime" Grid.Column="2">
+                <Viewbox Stretch="Uniform" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                    <TextBlock  x:Name="tblStatusTime" FontSize="70" TextAlignment="Center" FontFamily="Caribi" VerticalAlignment="Center" TextWrapping="Wrap"/>
+                </Viewbox>
+            </Border>
+        </Grid>
+        <Border x:Name="brComplete" Grid.Row="4" BorderBrush="Black" Visibility="Collapsed" Background="{StaticResource CompleteBackground}" BorderThickness="1,1,1,1">
+            <Grid Margin="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0" VerticalAlignment="Top">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="1" Height="auto">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="200"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Grid.Column="0" Text="1. Barcode: " VerticalAlignment="Center"/>
+                            <StackPanel Grid.Column="1" Orientation="Vertical">
+                                <TextBox x:Name="txtBarCodeComplete" BorderBrush="Black" IsEnabled="False"  GotKeyboardFocus="txtBarCodeComplete_GotKeyboardFocus" LostKeyboardFocus="txtBarCodeComplete_LostKeyboardFocus"/>
+                                <TextBox x:Name="popupPosition" Text="Popup Position" Height="0" Margin="0,5,0,0"/>
+                                <Popup x:Name="popInputSubPO" PlacementTarget="{Binding ElementName= popupPosition}" PopupAnimation="Scroll" AllowsTransparency="True">
+                                    <Border BorderBrush="Black" BorderThickness="1,1,1,1" Padding="5" Background="LightGray">
+                                        <StackPanel Orientation="Vertical">
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="PO#:" FontWeight="Bold" FontSize="20" VerticalAlignment="Bottom"  MinWidth="100"/>
+                                                <TextBox x:Name="txtProductNo" IsEnabled="False" FontSize="30" FontWeight="Bold" MinWidth="120" BorderBrush="Black" LostKeyboardFocus="txtProductNo_LostKeyboardFocus" GotKeyboardFocus="txtProductNo_GotKeyboardFocus" ToolTip="Bấm Phím Enter"/>
+                                                <Button x:Name="btnProductNo" Width="0" IsEnabled="False" Click="btnProductNo_Click"/>
+                                            </StackPanel>
+                                            <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                                                <TextBlock Text="CartonNo:" FontWeight="Bold" FontSize="20" VerticalAlignment="Bottom" MinWidth="100"/>
+                                                <TextBox x:Name="txtCartonNo" IsEnabled="False" FontSize="30" FontWeight="Bold" MinWidth="100" BorderBrush="Black" LostKeyboardFocus="txtCartonNo_LostKeyboardFocus" GotKeyboardFocus="txtCartonNo_GotKeyboardFocus"  ToolTip="Bấm Phím Enter"/>
+                                                <Button x:Name="btnCartonNo" Width="0" IsEnabled="False" Click="btnCartonNo_Click"/>
+                                            </StackPanel>
+                                        </StackPanel>
+                                    </Border>
+                                </Popup>
+                            </StackPanel>
+                            <Button x:Name="btnBarcodeComplete" HorizontalAlignment="Right" Width="0" Grid.Column="2" Background="Green" Click="btnBarcodeComplete_Click" />
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Column="2" x:Name="gridCartonDetail" HorizontalAlignment="Right">
+                        <StackPanel Orientation="Vertical" VerticalAlignment="Top">
+                        <TextBlock x:Name="tblProductNo" FontSize="80"  FontWeight="Bold" HorizontalAlignment="Left"/>
+                        <TextBlock x:Name="tblSizeItemQuantityCartonNo" FontSize="50" HorizontalAlignment="Left"/>
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Row="1" Margin="0,0,0,0" VerticalAlignment="Bottom">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="40"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="40"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Column="0" Grid.Row="4" Text="3. Gross Weight(kg)"/>
+                    <TextBlock Grid.Column="2" Grid.Row="4" Text="4. Actual Weight(kg)" Foreground="Blue"/>
+                    <TextBlock Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="6" Margin="0,0,5,0" Text="6. Difference Percent(%)" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+                    <TextBlock Grid.Column="6" Grid.Row="4" Text="5. Result(Hi,Pass,Low)" />
+                    <Border Grid.Column="0" Grid.Row="5" Margin="0,5,0,0" BorderBrush="black" BorderThickness="1,1,1,1">
+                        <TextBlock x:Name="tblGrossWeight" Text="0" FontWeight="Bold" FontSize="130" TextAlignment="Center" Tag="0"/>
+                    </Border>
+                    <Border Grid.Column="2" Grid.Row="5" Margin="0,5,0,0" BorderBrush="Blue" BorderThickness="1,1,1,1">
+                        <TextBlock x:Name="tblActualWeight" Text="0" FontWeight="Bold" FontSize="130" TextAlignment="Center" Foreground="Blue" Tag="0"/>
+                    </Border>
+                    <Border Grid.Column="4" Grid.Row="6" Margin="0,0,0,0" BorderBrush="Black" BorderThickness="1,0,1,1">
+                        <TextBlock x:Name="tblDifferencePercent" Text="0" FontWeight="Bold" FontSize="35" TextAlignment="Center"/>
+                    </Border>
+                    <Border x:Name="brResult" Grid.Column="6" Grid.Row="5" Margin="0,5,0,0" BorderBrush="Black" BorderThickness="1,1,1,1">
+                        <TextBlock x:Name="tblResult" Text="..." FontWeight="Bold" FontSize="80" TextAlignment="Center" VerticalAlignment="Bottom" TextWrapping="Wrap"/>
+                    </Border>
+                </Grid>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

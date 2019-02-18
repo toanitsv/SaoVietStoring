@@ -1,0 +1,1344 @@
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ImportOrdersWindow.baml
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ImportOrdersWindow.g.cs
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\App.g.cs
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+D:\Project\SourceCode\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ImportOrdersWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ImportOrdersWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\App.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ImportOrdersWindow.baml
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ImportOrdersWindow.g.cs
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\App.g.cs
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ImportOrdersWindow.baml
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ImportOrdersWindow.g.cs
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\App.g.cs
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+C:\Users\Scales1\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ImportOrdersWindow.baml
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ImportOrdersWindow.g.cs
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\App.g.cs
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+C:\Users\IT02\Desktop\SaoVietStoring\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+D:\Project\SourceCode\Update\SaoVietStoring\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\App.g.cs
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+C:\Users\IT02\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\App.g.cs
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Storing1.2\SaoVietStoring\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\App.g.cs
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+C:\Users\IT02\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\App.g.cs
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\WH\Storing1.2\SaoVietStoring\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\App.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\App.g.cs
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Storing1.2 New Update\SaoVietStoring\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\App.g.cs
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+C:\Users\IT02\Desktop\Storing\Storing1.2 New Update_2\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing1.3 New Speed\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing1.4\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\App.g.cs
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Storing1.4\SaoVietStoring\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\App.g.cs
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Storing1.4 Update GUI\SaoVietStoring\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\App.g.cs
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Storing1.5\SaoVietStoring\obj\x86\Debug\GenerateResource.write.1.tlog
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\App.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\Views\OutputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing1.5.5\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\ResolveAssemblyReference.cache
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\ProblemReportWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\App.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\GenerateResource.read.1.tlog
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\GenerateResource.write.1.tlog
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+\\Sv-qc\qc\Exe\SaoViet Storing System\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\App.g.cs
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+F:\SV PROJECT\Storing\Storing1.6_ReviseDB\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing1.7\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\Views\CartonInformationDetailWindow.baml
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\Views\CartonInformationDetailWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.8\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\Views\CartonInformationDetailWindow.baml
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\Views\CartonInformationDetailWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing1.9\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.baml
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.baml
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.g.cs
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\InputReportWindow.g.cs
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\App.g.cs
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+\\sv-qc\QC\Exe\SaoViet Storing System\Source\Storing2.1_BigChange\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_BigChange\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.1_ThienLoc\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.1_Upgrade\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing2.2_Upgrade\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.3_Upgrade\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.4_ReScaleFirstCarton\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.5_CreateReport\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.baml
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\DetailReportWindow.g.cs
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\App.g.cs
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+C:\Users\User\Desktop\Storing2.6_Output\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.6_Output_Faster\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.7_Faster\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.7_Faster - Edit\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.8_Fastest\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8_Fastest\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\THIENLOC\Storing2.8\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.9\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.baml
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.g.cs
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing3.0_PrintBarcode\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojAssemblyReference.cache
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\App.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.cache
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.CoreCompileInputs.cache
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\SV PROJECT\Storing\Storing2.0.1.0_PrintBarcode\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.CopyComplete
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojAssemblyReference.cache
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\App.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.cache
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.CoreCompileInputs.cache
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\SV PROJECT\Storing\Storing2.0.1.1_Cding\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.CopyComplete
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojResolveAssemblyReference.cache
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\App.g.cs
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.Cache
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\RdlCompile.cache
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\RdlCompile.compiled
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+E:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csprojAssemblyReference.cache
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\MainWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\InputWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.baml
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\MainWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\CheckIssuesWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\InputDetailReportWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\ImportPORepackingWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\InputWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\OutputWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\PrintBarcodeWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\ReWeighCartonWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\Views\StoringReportWindow.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\App.g.cs
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring_MarkupCompile.cache
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.g.resources
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.Properties.Resources.resources
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.GenerateResource.cache
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.CoreCompileInputs.cache
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.exe
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.pdb
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\bin\Debug\SaoVietStoring.exe.config
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\bin\Debug\SaoVietStoring.exe
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\bin\Debug\SaoVietStoring.pdb
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\SV PROJECT\Storing\Storing2.0.1.1_EmailFactory\SaoVietStoring\obj\x86\Debug\SaoVietStoring.csproj.CopyComplete

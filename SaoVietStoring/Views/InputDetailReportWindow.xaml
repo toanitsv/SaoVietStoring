@@ -1,0 +1,43 @@
+﻿<Window xmlns:rpv="clr-namespace:Microsoft.Reporting.WinForms;assembly=Microsoft.Reportviewer.WinForms" 
+        x:Class="SaoVietStoring.Views.InputDetailReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Storing System - Detail Report" WindowState="Maximized" MinWidth="450" MinHeight="300" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" FontSize="13">
+    <Grid Margin="5,5,5,5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Production No.:" VerticalAlignment="Center"/>
+            <TextBox x:Name="txtProductNo" MinWidth="150" Margin="5,0,0,0" GotMouseCapture="txtProductNo_GotMouseCapture" />
+            <Button x:Name="btnReport" Content="Preview Input" Margin="10,0,0,0" MinWidth="100" FontWeight="Bold" IsDefault="True" Click="btnReport_Click" />
+            <Button x:Name="btnReportOutput" Content="Preview Output" Margin="10,0,0,0" MinWidth="100" FontWeight="Bold" Click="btnReportOutput_Click" />
+        </StackPanel>
+        <DataGrid Margin="0,5,0,0" x:Name="dgDetailReport" Grid.Row="1"  AutoGenerateColumns="False" 
+                  CanUserAddRows="False" CanUserResizeRows="False" AlternationCount="2" 
+                  AlternatingRowBackground="LightCyan" IsReadOnly="True"
+                  CanUserReorderColumns="False" SelectionUnit="FullRow"
+                  HorizontalGridLinesBrush="LightGray" VerticalGridLinesBrush="LightGray" FontSize="12">
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                    <Setter Property="FontSize" Value="13"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Barcode" Binding="{Binding Barcode}"/>
+                <DataGridTextColumn Header="CartonNo" Binding="{Binding CartonNo}"/>
+                <DataGridTextColumn Header="SizeNo" Binding="{Binding SizeNo}" CanUserSort="False"/>
+                <DataGridTextColumn Header="Gross&#10;Weight (kg)" Binding="{Binding GrossWeight}"/>
+                <DataGridTextColumn Header="Actual&#10;Weight (kg)" Binding="{Binding ActualWeight}"/>
+                <DataGridTextColumn Header="Difference&#10;Percent (%)" Binding="{Binding DifferencePercent}"/>
+                <DataGridTextColumn Header="Inputted&#10;Time" Binding="{Binding InputtedTime}"/>
+                <DataGridTextColumn Header="Location" Binding="{Binding Location}" CanUserSort="False"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <!--<WindowsFormsHost Grid.Row="1" Margin="0,5,0,0">
+            <rpv:ReportViewer x:Name="reportViewer" ShowFindControls="False"/>
+        </WindowsFormsHost>-->
+    </Grid>
+</Window>

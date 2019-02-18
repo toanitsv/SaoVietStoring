@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EEF4CD9B-ED1E-47D3-B9BF-5774867F2650}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SaoVietStoring</RootNamespace>
+    <AssemblyName>SaoVietStoring</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>default.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BarcodeLib, Version=1.0.0.19, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\BarcodeLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\CartonNumberingController.cs" />
+    <Compile Include="Controllers\CartonNumberingDetailController.cs" />
+    <Compile Include="Controllers\ControlIssuesAccountController.cs" />
+    <Compile Include="Controllers\IssuesController.cs" />
+    <Compile Include="Controllers\IssuesDetailController.cs" />
+    <Compile Include="Controllers\MailAddressReceiveMessageController.cs" />
+    <Compile Include="Controllers\OutputingController.cs" />
+    <Compile Include="Controllers\PORepackingController.cs" />
+    <Compile Include="Controllers\StoringController.cs" />
+    <Compile Include="DataSets\CartonNumberingDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CartonNumberingDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\StoringDataSet.cs">
+      <DependentUpon>StoringDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSets\StoringDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StoringDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSets\StoringReportDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StoringReportDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entites\ConnectTo.cs" />
+    <Compile Include="Entites\SaoVietStoringModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SaoVietStoringModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\ApplicationRunningHelper.cs" />
+    <Compile Include="Helpers\AppSettingHelper.cs" />
+    <Compile Include="Helpers\AssemblyHelper.cs" />
+    <Compile Include="Helpers\CheckConnection.cs" />
+    <Compile Include="Helpers\CheckInternetConnection.cs" />
+    <Compile Include="Helpers\ComPortHelper.cs" />
+    <Compile Include="Helpers\ElectricScaleProfileHelper.cs" />
+    <Compile Include="Helpers\LogHelper.cs" />
+    <Compile Include="Models\CartonNumberingDetailModel.cs" />
+    <Compile Include="Models\CartonNumberingModel.cs" />
+    <Compile Include="Models\ControlIssuesAccountModel.cs" />
+    <Compile Include="Models\IssuesDetailModel.cs" />
+    <Compile Include="Models\IssuesModel.cs" />
+    <Compile Include="Models\IssuesType.cs" />
+    <Compile Include="Models\BarcodeModel.cs" />
+    <Compile Include="Models\OutputtingModel.cs" />
+    <Compile Include="Models\PORepackingModel.cs" />
+    <Compile Include="Views\CheckIssuesWindow.xaml.cs">
+      <DependentUpon>CheckIssuesWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\InputDetailReportWindow.xaml.cs">
+      <DependentUpon>InputDetailReportWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ImportPORepackingWindow.xaml.cs">
+      <DependentUpon>ImportPORepackingWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\InputWindow.xaml.cs">
+      <DependentUpon>InputWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\OutputWindow.xaml.cs">
+      <DependentUpon>OutputWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PrintBarcodeWindow.xaml.cs">
+      <DependentUpon>PrintBarcodeWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReWeighCartonWindow.xaml.cs">
+      <DependentUpon>ReWeighCartonWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\StoringReportWindow.xaml.cs">
+      <DependentUpon>StoringReportWindow.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Views\CheckIssuesWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\InputDetailReportWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ImportPORepackingWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\InputWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\OutputWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PrintBarcodeWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ReWeighCartonWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\StoringReportWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\AccountModel.cs" />
+    <Compile Include="Models\MailAddressReceiveMessageModel.cs" />
+    <Compile Include="Models\OrdersModel.cs" />
+    <Compile Include="Models\StoringModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\StoringReport.rdlc" />
+    <EntityDeploy Include="Entites\SaoVietStoringModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>SaoVietStoringModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="App.Config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSets\CartonNumberingDataSet.xsc">
+      <DependentUpon>CartonNumberingDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\CartonNumberingDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CartonNumberingDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\CartonNumberingDataSet.xss">
+      <DependentUpon>CartonNumberingDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\StoringDataSet.xsc">
+      <DependentUpon>StoringDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\StoringDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>StoringDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\StoringDataSet.xss">
+      <DependentUpon>StoringDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\StoringReportDataSet.xsc">
+      <DependentUpon>StoringReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSets\StoringReportDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>StoringReportDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSets\StoringReportDataSet.xss">
+      <DependentUpon>StoringReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\App.datasource" />
+    <None Include="Properties\DataSources\MainWindow.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Controllers.AccountController.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Controllers.BarcodeController.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Controllers.CartonNumberingDetailController.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Controllers.ControlIssuesAccountController.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Controllers.IssuesController.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Controllers.IssuesDetailController.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Controllers.MailAddressReceiveMessageController.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Controllers.OrdersController.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Controllers.StoringController.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.CartonNumberingDataSet+CartonNumberingTableDataTable.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.CartonNumberingDataSet+CartonNumberingTableRow.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.CartonNumberingDataSet+CartonNumberingTableRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.CartonNumberingDataSet+CartonNumberingTableRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.CartonNumberingDataSet.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputDataSet+InputTableDataTable.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputDataSet+InputTableRow.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputDataSet+InputTableRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputDataSet+InputTableRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputDataSet.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputSummaryDataSet+InputSummaryTableDataTable.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputSummaryDataSet+InputSummaryTableRow.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputSummaryDataSet+InputSummaryTableRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputSummaryDataSet+InputSummaryTableRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputSummaryDataSet.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputValueDataSet+InputValueTableDataTable.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputValueDataSet+InputValueTableRow.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputValueDataSet+InputValueTableRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputValueDataSet+InputValueTableRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.InputValueDataSet.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringDataSet+StoringTableDataTable.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringDataSet+StoringTableRow.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringDataSet+StoringTableRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringDataSet+StoringTableRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringDataSet.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringReportDataSet+StoringTableDataTable.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringReportDataSet+StoringTableRow.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringReportDataSet+StoringTableRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringReportDataSet+StoringTableRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringReportDataSet.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringValueDataSet+StoringDataTableDataTable.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringValueDataSet+StoringDataTableRow.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringValueDataSet+StoringDataTableRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringValueDataSet+StoringDataTableRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.DataSets.StoringValueDataSet.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Entites.Account.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Entites.ConnectTo.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Entites.MailAddressReceiveMessage.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Entites.Order.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Entites.Storing.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Entites.StoringSystemEntities.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Helpers.AppSettingsHelper.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Helpers.AssemblyHelper.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Helpers.CheckConnection.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Helpers.CheckInternetConnection.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Helpers.ComPortHelper.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Helpers.ElectricScaleProfile.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Helpers.ElectricScaleProfileHelper.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Helpers.GetString.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Helpers.Mixed.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Models.AccountModel.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Models.BarcodeModel.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Models.CartonNumberingDetailModel.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Models.ControlIssuesAccountModel.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Models.IssuesDetailModel.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Models.IssuesModel.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Models.IssuesType+Issues.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Models.IssuesType.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Models.MailAddressReceiveMessageModel.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Models.OrdersModel.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Models.OutputingModel.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Models.StoringModel.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Properties.Settings.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Views.CheckIssuesWindow.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Views.DetailReportWindow.datasource" />
+    <None Include="Properties\DataSources\SaoVietStoring.Views.InputWindow.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buisenessman.png" />
+    <Resource Include="Images\carton.ico" />
+    <Resource Include="Images\default.ico" />
+    <Resource Include="Images\login.ico" />
+    <Resource Include="Images\main.ico" />
+    <Resource Include="Images\main.jpg" />
+    <Resource Include="Images\shoe1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="default.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\report.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\output.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\input.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\import.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

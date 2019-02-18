@@ -1,0 +1,52 @@
+﻿<Window x:Class="SaoVietStoring.Views.ImportPORepackingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Storing System - Import PO Repacking" Height="300" Width="500" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Product No: " FontSize="14" VerticalAlignment="Bottom"/>
+            <TextBox x:Name="txtPORepacking" FontSize="14" MinWidth="150" Margin="5,0,5,0"/>
+            <Button x:Name="btnAddPORepacking" FontSize="14" Content="Add" MinWidth="70" Click="btnAddPORepacking_Click" />
+        </StackPanel>
+        <TextBlock Grid.Row="1" Text="PO Repacking List" Margin="0,10,0,2" FontSize="14" FontWeight="Bold"/>
+        <DataGrid Grid.Row="2" x:Name="dgPORepacking" AutoGenerateColumns="False" IsReadOnly="True"
+                  AlternatingRowBackground="LightCyan" AlternationCount="2"
+                  HorizontalGridLinesBrush="LightGray" VerticalGridLinesBrush="LightGray">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridCell}">
+                    <Style.Triggers>
+                        <Trigger Property="DataGridCell.IsSelected" Value="True">
+                            <Setter Property="Background" Value="RoyalBlue" />
+                            <Setter Property="Foreground" Value="White" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="Auto" Header="PO#" Binding="{Binding ProductNo}"/>
+                <DataGridTextColumn Width="Auto" Header="Created Date" Binding="{Binding CreatedTime, StringFormat=MM/dd/yyyy}"/>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="btnClear" Content="X" MinWidth="20" Height="20" Foreground="Blue" FontSize="11" Click="btnClear_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="3" Orientation="Horizontal" Margin="0,5,0,0">
+            <Button x:Name="btnSave" FontSize="14" Content="Save" Height="28" VerticalAlignment="Top" MinWidth="70" Click="btnSave_Click" />
+            <StackPanel x:Name="stkControlAccount" Orientation="Horizontal" Margin="10,0,0,0" Visibility="Collapsed">
+                <TextBlock Text="Security Code: " VerticalAlignment="Bottom" FontSize="14" Foreground="Red"/>
+                <PasswordBox x:Name="txtPassword" MinWidth="120" BorderBrush="Red" BorderThickness="2,2,2,2" Margin="5,0,0,0" FontSize="16"/>
+                <Button x:Name="btnConfirm" Content="Confirm" FontWeight="Bold" FontSize="13" Width="70" Margin="5,0,0,0" Click="btnConfirm_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

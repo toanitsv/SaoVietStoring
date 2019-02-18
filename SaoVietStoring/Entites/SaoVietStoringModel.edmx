@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="StoringSystemModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="StoringSystemModelStoreContainer">
+          <EntitySet Name="Account" EntityType="StoringSystemModel.Store.Account" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="MailAddressReceiveMessage" EntityType="StoringSystemModel.Store.MailAddressReceiveMessage" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Orders" EntityType="StoringSystemModel.Store.Orders" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Storing" EntityType="StoringSystemModel.Store.Storing" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="Account">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+          <Property Name="FullName" Type="nvarchar" MaxLength="50" />
+          <Property Name="Password" Type="nvarchar" MaxLength="50" />
+          <Property Name="IsEnable" Type="bit" />
+          <Property Name="CanUploadData" Type="bit" />
+          <Property Name="CreatedDate" Type="date" />
+        </EntityType>
+        <EntityType Name="MailAddressReceiveMessage">
+          <Key>
+            <PropertyRef Name="MailAddress" />
+          </Key>
+          <Property Name="MailAddress" Type="nvarchar" Nullable="false" MaxLength="100" />
+          <Property Name="Name" Type="nvarchar" MaxLength="100" />
+          <Property Name="IsEnable" Type="bit" />
+        </EntityType>
+        <EntityType Name="Orders">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="ProductNo" Type="nvarchar" MaxLength="50" />
+          <Property Name="OuterCode" Type="nvarchar" MaxLength="50" />
+          <Property Name="ArticleNo" Type="nvarchar" MaxLength="50" />
+          <Property Name="ShoeName" Type="nvarchar" MaxLength="100" />
+          <Property Name="DeliveryCountry" Type="nvarchar" MaxLength="50" />
+          <Property Name="Quantity" Type="int" />
+          <Property Name="Size" Type="nvarchar" MaxLength="50" />
+          <Property Name="CSDDate" Type="datetime" />
+          <Property Name="CreatedTime" Type="datetime" />
+          <Property Name="UpdatedTime" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Storing">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="ProductNo" Type="nvarchar" MaxLength="50" />
+          <Property Name="OuterCode" Type="nvarchar" MaxLength="50" />
+          <Property Name="Barcode" Type="nvarchar" MaxLength="50" />
+          <Property Name="CompleteCarton" Type="bit" />
+          <Property Name="SizeNo" Type="nvarchar" MaxLength="50" />
+          <Property Name="CartonNo" Type="int" />
+          <Property Name="GrossWeight" Type="float" />
+          <Property Name="ActualWeight" Type="float" />
+          <Property Name="DifferencePercent" Type="float" />
+          <Property Name="IsPass" Type="bit" />
+          <Property Name="IsFirstPass" Type="bit" />
+          <Property Name="CreatedAccount" Type="nvarchar" MaxLength="50" />
+          <Property Name="CreatedTime" Type="datetime" />
+          <Property Name="UpdatedTime" Type="datetime" />
+        </EntityType>
+        <Function Name="spm_CheckAccount" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="UserName" Type="nvarchar" Mode="In" />
+          <Parameter Name="Password" Type="nvarchar" Mode="In" />
+        </Function>
+        <Function Name="spm_InsertOrders" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="ProductNo" Type="nvarchar" Mode="In" />
+          <Parameter Name="OuterCode" Type="nvarchar" Mode="In" />
+          <Parameter Name="ArticleNo" Type="nvarchar" Mode="In" />
+          <Parameter Name="ShoeName" Type="nvarchar" Mode="In" />
+          <Parameter Name="DeliveryCountry" Type="nvarchar" Mode="In" />
+          <Parameter Name="Quantity" Type="int" Mode="In" />
+          <Parameter Name="Size" Type="nvarchar" Mode="In" />
+          <Parameter Name="CSDDate" Type="datetime" Mode="In" />
+        </Function>
+        <Function Name="spm_SelectCartonNoList" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="ProductNo" Type="nvarchar" Mode="In" />
+          <Parameter Name="CartonNo" Type="int" Mode="In" />
+        </Function>
+        <Function Name="spm_SelectMailAddress" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="spm_SelectOrderByOuterCode" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="OuterCode" Type="nvarchar" Mode="In" />
+        </Function>
+        <Function Name="spm_SelectOrderByProductNo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="ProductNo" Type="nvarchar" Mode="In" />
+        </Function>
+        <Function Name="spm_SelectStoringByCartonNo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="CartonNo" Type="int" Mode="In" />
+        </Function>
+        <Function Name="spm_SelectStoringByProductNoSizeNo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="ProductNo" Type="nvarchar" Mode="In" />
+          <Parameter Name="SizeNo" Type="nvarchar" Mode="In" />
+        </Function>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="StoringSystemModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="StoringSystemEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Accounts" EntityType="StoringSystemModel.Account" />
+          <EntitySet Name="MailAddressReceiveMessages" EntityType="StoringSystemModel.MailAddressReceiveMessage" />
+          <EntitySet Name="Orders" EntityType="StoringSystemModel.Order" />
+          <EntitySet Name="Storings" EntityType="StoringSystemModel.Storing" />
+        </EntityContainer>
+        <EntityType Name="Account">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UserName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="FullName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Password" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="IsEnable" Type="Boolean" />
+          <Property Name="CanUploadData" Type="Boolean" />
+          <Property Name="CreatedDate" Type="DateTime" />
+        </EntityType>
+        <EntityType Name="MailAddressReceiveMessage">
+          <Key>
+            <PropertyRef Name="MailAddress" />
+          </Key>
+          <Property Name="MailAddress" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="Name" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="IsEnable" Type="Boolean" />
+        </EntityType>
+        <EntityType Name="Order">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ProductNo" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="OuterCode" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="ArticleNo" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="ShoeName" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="DeliveryCountry" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Quantity" Type="Int32" />
+          <Property Name="Size" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CSDDate" Type="DateTime" />
+          <Property Name="CreatedTime" Type="DateTime" />
+          <Property Name="UpdatedTime" Type="DateTime" />
+        </EntityType>
+        <EntityType Name="Storing">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ProductNo" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="OuterCode" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="Barcode" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CompleteCarton" Type="Boolean" />
+          <Property Name="SizeNo" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CartonNo" Type="Int32" />
+          <Property Name="GrossWeight" Type="Double" />
+          <Property Name="ActualWeight" Type="Double" />
+          <Property Name="DifferencePercent" Type="Double" />
+          <Property Name="IsPass" Type="Boolean" />
+          <Property Name="IsFirstPass" Type="Boolean" />
+          <Property Name="CreatedAccount" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CreatedTime" Type="DateTime" />
+          <Property Name="UpdatedTime" Type="DateTime" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="StoringSystemModelStoreContainer" CdmEntityContainer="StoringSystemEntities">
+          <EntitySetMapping Name="Accounts">
+            <EntityTypeMapping TypeName="StoringSystemModel.Account">
+              <MappingFragment StoreEntitySet="Account">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="UserName" ColumnName="UserName" />
+                <ScalarProperty Name="FullName" ColumnName="FullName" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="IsEnable" ColumnName="IsEnable" />
+                <ScalarProperty Name="CanUploadData" ColumnName="CanUploadData" />
+                <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="MailAddressReceiveMessages">
+            <EntityTypeMapping TypeName="StoringSystemModel.MailAddressReceiveMessage">
+              <MappingFragment StoreEntitySet="MailAddressReceiveMessage">
+                <ScalarProperty Name="MailAddress" ColumnName="MailAddress" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="IsEnable" ColumnName="IsEnable" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Orders">
+            <EntityTypeMapping TypeName="StoringSystemModel.Order">
+              <MappingFragment StoreEntitySet="Orders">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="ProductNo" ColumnName="ProductNo" />
+                <ScalarProperty Name="OuterCode" ColumnName="OuterCode" />
+                <ScalarProperty Name="ArticleNo" ColumnName="ArticleNo" />
+                <ScalarProperty Name="ShoeName" ColumnName="ShoeName" />
+                <ScalarProperty Name="DeliveryCountry" ColumnName="DeliveryCountry" />
+                <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+                <ScalarProperty Name="Size" ColumnName="Size" />
+                <ScalarProperty Name="CSDDate" ColumnName="CSDDate" />
+                <ScalarProperty Name="CreatedTime" ColumnName="CreatedTime" />
+                <ScalarProperty Name="UpdatedTime" ColumnName="UpdatedTime" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Storings">
+            <EntityTypeMapping TypeName="StoringSystemModel.Storing">
+              <MappingFragment StoreEntitySet="Storing">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="ProductNo" ColumnName="ProductNo" />
+                <ScalarProperty Name="OuterCode" ColumnName="OuterCode" />
+                <ScalarProperty Name="Barcode" ColumnName="Barcode" />
+                <ScalarProperty Name="CompleteCarton" ColumnName="CompleteCarton" />
+                <ScalarProperty Name="SizeNo" ColumnName="SizeNo" />
+                <ScalarProperty Name="CartonNo" ColumnName="CartonNo" />
+                <ScalarProperty Name="GrossWeight" ColumnName="GrossWeight" />
+                <ScalarProperty Name="ActualWeight" ColumnName="ActualWeight" />
+                <ScalarProperty Name="DifferencePercent" ColumnName="DifferencePercent" />
+                <ScalarProperty Name="IsPass" ColumnName="IsPass" />
+                <ScalarProperty Name="IsFirstPass" ColumnName="IsFirstPass" />
+                <ScalarProperty Name="CreatedAccount" ColumnName="CreatedAccount" />
+                <ScalarProperty Name="CreatedTime" ColumnName="CreatedTime" />
+                <ScalarProperty Name="UpdatedTime" ColumnName="UpdatedTime" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="SaoVietStoringModel">
+        <EntityTypeShape EntityType="StoringSystemModel.Account" Width="1.5" PointX="0.75" PointY="0.75" Height="2.3648893229166665" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoringSystemModel.MailAddressReceiveMessage" Width="1.5" PointX="2.75" PointY="0.75" Height="1.5956835937499996" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoringSystemModel.Order" Width="1.5" PointX="2.75" PointY="3.75" Height="3.1340950520833335" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoringSystemModel.Storing" Width="1.5" PointX="4.75" PointY="0.75" Height="3.9033007812499996" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

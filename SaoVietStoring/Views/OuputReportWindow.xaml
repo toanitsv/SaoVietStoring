@@ -1,0 +1,98 @@
+﻿<Window x:Class="SaoVietStoring.Views.OuputReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ouput Report" MinHeight="600" MinWidth="1200" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="ProductNo: " FontSize="15" VerticalAlignment="Center"/>
+                <TextBox x:Name="txtProductNo" FontSize="15" Margin="5,0,0,0" MinWidth="150" BorderBrush="Black"/>
+                <Button x:Name="btnSearch" Content="Search" Margin="20,0,0,0" FontSize="15" MinWidth="80" IsDefault="True" Click="btnSearch_Click" />
+            </StackPanel>
+        </Grid>
+        <GroupBox Grid.Row="1" Header="Statistic" BorderBrush="Black" FontSize="18">
+            <Grid Margin="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0" Text="PASS" Background="Green" FontSize="20" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock Grid.Column="2" Text="HI" Background="Red" FontSize="20" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock Grid.Column="4" Text="LOW" Background="Yellow" FontSize="20" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock Grid.Column="6" Text="TOTAL OUTPUT" Background="LightGray" FontSize="20" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock Grid.Column="8" Text="TOTAL CARTON" Background="LightGray" FontSize="20" FontWeight="Bold" TextAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock x:Name="tblPass" Grid.Column="0" Text="..." FontSize="22" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock x:Name="tblHi" Grid.Column="2" Text="..." FontSize="22" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock x:Name="tblLow" Grid.Column="4" Text="..." FontSize="22" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock x:Name="tblTotalOutpput" Grid.Column="6" Text="..." FontSize="22" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock x:Name="tblTotalCarton" Grid.Column="8" Text="..." FontSize="22" FontWeight="Bold" TextAlignment="Center"/>
+                </Grid>
+            </Grid>
+        </GroupBox>
+        <Grid Grid.Row="2" Margin="0,20,0,0">
+            <TextBlock Text="Output Detail" FontSize="18"/>
+        </Grid>
+        <StackPanel Grid.Row="3" Orientation="Horizontal" Margin="0,5,0,5">
+            <RadioButton GroupName="ShowMode" x:Name="radShoeOuput" Content="Show Output" FontSize="14" Margin="0,0,20,0" Checked="radShoeOuput_Checked"/>
+            <RadioButton GroupName="ShowMode" x:Name="radShowNotOutput" Content="Show Not Output" FontSize="14" Margin="0,0,20,0" Checked="radShowNotOutput_Checked"/>
+            <RadioButton GroupName="ShowMode" x:Name="radShowAll" Content="Show All" FontSize="14" Checked="radShowAll_Checked"/>
+        </StackPanel>
+        <DataGrid x:Name="dgOutput" AutoGenerateColumns="False" IsReadOnly="True" 
+                                  AlternatingRowBackground="LightCyan" AlternationCount="2" Grid.Row="4" FontSize="14"
+                                  HorizontalGridLinesBrush="LightGray" VerticalGridLinesBrush="LightGray">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridCell}">
+                    <Style.Triggers>
+                        <Trigger Property="DataGridCell.IsSelected" Value="True">
+                            <Setter Property="Background" Value="RoyalBlue" />
+                            <Setter Property="Foreground" Value="White" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="Auto" Header="ProductNo" Binding="{Binding ProductNo}"/>
+                <DataGridTextColumn Width="Auto" Header="Barcode" Binding="{Binding Barcode}"/>
+                <DataGridTextColumn Width="Auto" Header="Carton No" Binding="{Binding CartonNo}"/>
+                <DataGridTextColumn Width="Auto" Header="Size" Binding="{Binding SizeNo}"/>
+                <DataGridTextColumn Width="Auto" Header="Gross Weight" Binding="{Binding GrossWeight}"/>
+                <DataGridTextColumn Width="Auto" Header="Actual Weight" Binding="{Binding ActualWeight}"/>
+                <DataGridTextColumn Width="Auto" Header="Difference %" Binding="{Binding DifferencePercent}"/>
+                <DataGridTextColumn Width="Auto" Header="Status" Binding="{Binding Status}"/>
+                <DataGridTextColumn Width="120" Header="Output Date" Binding="{Binding OutputDate}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

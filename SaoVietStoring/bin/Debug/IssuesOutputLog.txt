@@ -1,0 +1,3 @@
+﻿2018-08-04 03:18:03 Production No.: 107A-4341, Size No.: 7.5, Carton No.: 88, Gross Weight: 8.83kg, Actual Weight: 0kg, Difference Percent: 17.67%, Created By: IT 02, Reason :Override Weight, Location A1
+2018-08-04 03:20:56 Production No.: 107A-4341, Size No.: 7.5, Carton No.: 88, Gross Weight: 8.83kg, Actual Weight: 10.63kg, Difference Percent: 20.39%, Created By: IT 02, Reason :Override Weight, Location A1
+2018-08-04 03:23:00 Production No.: 107A-4341, Size No.: 7.5, Carton No.: 88, Gross Weight: 8.83kg, Actual Weight: 10.12kg, Difference Percent: 14.61%, Created By: IT 02, Reason :Override Weight, Location A1
